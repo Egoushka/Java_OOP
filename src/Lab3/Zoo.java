@@ -1,6 +1,6 @@
-package Model;
+package Lab3;
 
-import Model.Places.Place;
+import Lab3.Places.Place;
 
 import java.util.ArrayList;
 
